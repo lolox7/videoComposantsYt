@@ -1,9 +1,9 @@
-<template class="composant">
+<template class="menugeneral">
     <div>
         Le composant nouvellement crée
     </div>
-    <div class="list">
-        LISTE
+    <div class="menu">
+        Menu
     </div>
 </template>
 

@@ -1,15 +1,15 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <Composant/>
+  <MenuGeneral/>
 </template>
 
 <script>
-import Composant from './components/Composant.vue'
+import MenuGeneral from './components/MenuGeneral.vue';
 
 export default {
   name: 'App',
   components: {
-    Composant
+    MenuGeneral
 }
 }
 </script>
