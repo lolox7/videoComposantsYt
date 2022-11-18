@@ -1,17 +1,18 @@
-<template class="menugeneral">
+<template class="MaListe">
     <div>
         Le composant nouvellement crée
     </div>
     <div class="menu">
-        Menu
+    <MonItem> </MonItem>
     </div>
 </template>
 
 <script>
+import MonItem from './MonItem.vue';
 export default {
-    // components: {
-    //     Composant
-    // }
+    components: {
+    MonItem
+}
 }
 </script>
 

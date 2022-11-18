@@ -1,15 +1,16 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <MenuGeneral/>
+  <MaListe/>
+  <MaListe/>
 </template>
 
 <script>
-import MenuGeneral from './components/MenuGeneral.vue';
+import MaListe from './components/MaListe.vue';
 
 export default {
   name: 'App',
   components: {
-    MenuGeneral
+    MaListe
 }
 }
 </script>
