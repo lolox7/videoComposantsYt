@@ -1,6 +1,6 @@
 <template class="MaListe">
     <div>
-        Le composant nouvellement crée
+        Le composant nouvellement crée 22
     </div>
     <div class="menu">
     <MonItem> </MonItem>
