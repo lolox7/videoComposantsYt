@@ -1,7 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
   <MaListe/>
-  <MaListe/>
 </template>
 
 <script>
